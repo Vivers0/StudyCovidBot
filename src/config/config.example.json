@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "ownerID": "",
+    "newsapi": {
+        "api": "",
+        "query": "covid AND карантин AND (школы OR школьники OR студенты)"
+    },
+    "mongo": {
+        "url": ""
+    }
+}
